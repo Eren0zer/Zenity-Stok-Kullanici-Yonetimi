@@ -87,14 +87,6 @@ Kritik işlemlerden sonra otomatik olarak "yedekler" dizinine veri yedekleri al�
 
 ---
 
-## Katkıda Bulunma
-1. Depoyu fork edin.
-2. Kendi branch'ınızı oluşturun: `git checkout -b yeni-ozellik`
-3. Değişikliklerinizi yapın ve commit edin: `git commit -m 'Yeni bir özellik ekle'`
-4. Branch'ınızı push edin: `git push origin yeni-ozellik`
-5. Bir pull request oluşturun.
-
----
 
 ## Lisans
 Bu proje MIT lisansı altında lisanslanmıştır. Daha fazla bilgi için `LICENSE` dosyasına bakabilirsiniz.
