@@ -1,0 +1,42 @@
+Hata Kodu,Zaman Bilgisi,Kullanıcı,Mesaj
+1,2024-12-17 18:28:15,test,Hatalı giriş denemesi
+2,2024-12-17 18:28:23,test,Hatalı giriş denemesi
+3,2024-12-17 18:28:38,test,Hatalı giriş denemesi
+4,2024-12-17 18:28:38,test,Hesap kilitlendi
+5,2024-12-17 18:34:04,1,Hatalı giriş denemesi
+6,2024-12-17 18:37:03,1,Hesap kilidi açıldı (test)
+7,2024-12-17 18:55:00,test,Hatalı giriş denemesi
+8,2024-12-17 18:55:37,test,Hatalı giriş denemesi
+9,2024-12-17 19:07:03,test,Hatalı giriş denemesi
+10,2024-12-17 19:07:16,test,Hatalı giriş denemesi
+11,2024-12-17 19:08:12,test,Hatalı giriş denemesi
+12,2024-12-17 19:12:17,test,Hatalı giriş denemesi
+13,2024-12-17 19:12:21,test,Hatalı giriş denemesi
+14,2024-12-17 19:12:24,test,Hatalı giriş denemesi
+15,2024-12-17 19:12:24,test,Hesap kilitlendi
+16,2024-12-17 19:13:00,1,Hesap kilidi açıldı (test)
+17,2024-12-17 19:22:02,tes,Hatalı giriş denemesi
+18,2024-12-17 19:22:05,tes,Hatalı giriş denemesi
+19,2024-12-17 19:22:09,tes,Hatalı giriş denemesi
+20,2024-12-17 19:22:09,tes,Hesap kilitlendi
+21,2024-12-17 19:22:18,merhaba,Hatalı giriş denemesi
+22,2024-12-17 19:22:22,merhaba,Hatalı giriş denemesi
+23,2024-12-17 19:22:25,merhaba,Hatalı giriş denemesi
+24,2024-12-17 19:22:25,merhaba,Hesap kilitlendi
+25,2024-12-17 19:41:54,1,Hatalı giriş denemesi
+26,2024-12-18 17:31:36,1,Hesap kilidi açıldı (test)
+27, Thu Dec 19 06:20:43 PM UTC 2024, Hata: Geçersiz birim fiyatı
+28, Fri Dec 20 04:29:30 PM UTC 2024, Başarı: Ürün eklendi - kalem
+29, Fri Dec 20 04:38:24 PM UTC 2024, Başarı: Ürün eklendi - kalem (Elektronik)
+30, Fri Dec 20 04:38:39 PM UTC 2024, Hata: Aynı isim ve kategoride ürün ekleme girişimi - kalem (Ev Eşyaları)
+31, Sat Dec 21 09:00:56 AM UTC 2024, Başarı: Ürün silindi - 6,kalem,212,12,Ev Eşyaları
+32, Sat Dec 21 09:01:29 AM UTC 2024, Başarı: Ürün silindi - 6,kalem,212,12,Ev Eşyaları
+33, Sat Dec 21 09:05:56 AM UTC 2024, Başarı: Ürün silindi - kalem (Ev Eşyaları)
+34, Sat Dec 21 09:08:24 AM UTC 2024, Başarı: Ürün silindi - qwe (Mobilya)
+35, Sat Dec 21 09:25:47 AM UTC 2024, Başarı: Ürün güncellendi - kalemlik (Elektronik)
+36, Sat Dec 21 09:32:13 AM UTC 2024, Başarı: Ürün güncellendi - kalemlik (Beyaz Eşya)
+37, Sat Dec 21 10:08:19 AM UTC 2024, Başarı: Ürün güncellendi - kalem (Spor Malzemeleri)
+38, Sat Dec 21 10:12:27 AM UTC 2024, Başarı: Ürün güncellendi - kalem (Giyim)
+39, Sat Dec 21 10:12:47 AM UTC 2024, Başarı: Ürün güncellendi - kalem (Spor Malzemeleri)
+40, Sat Dec 21 10:32:02 AM UTC 2024, Hata: Geçersiz stok miktarı
+41, Sat Dec 21 10:32:18 AM UTC 2024, Başarı: Ürün eklendi - kalem (Ev Eşyaları)
