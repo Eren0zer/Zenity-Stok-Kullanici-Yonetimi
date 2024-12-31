@@ -117,6 +117,11 @@ Kritik işlemlerden sonra otomatik olarak "yedekler" dizinine veri yedekleri al�
 
 ---
 
+## Tanıtım Videosu
+
+https://youtu.be/c4e54cEMP20
+
+---
 
 ## Lisans
 
