@@ -58,8 +58,10 @@ Bu proje, Zenity aracılığıyla geliştirilmiş bir stok ve kullanıcı yönet
    ./main.sh
    ```
 
-2. Giriş ekranından bir hesapla oturum açın.
-
+2. Giriş ekranından bir hesapla oturum açın. <br>
+    &nbsp;&nbsp;Varsayılan yönetici hesabı: <br>
+      &nbsp;&nbsp;&nbsp;Kullanıcı Adı: 1 <br>
+      &nbsp;&nbsp;&nbsp;Şifre: 1 <br>
 3. Ana menüdeki seçeneklerden birini seçerek çeşitli işlemleri gerçekleştirin.
 
 ---
