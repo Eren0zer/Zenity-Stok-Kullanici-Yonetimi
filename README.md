@@ -29,7 +29,7 @@ Bu proje, Zenity aracılığıyla geliştirilmiş bir stok ve kullanıcı yönet
    chmod +x main.sh
    ```
 
-3. **Gerekli Dizini Oluşturun:**
+3. **Gerekli Dizini Oluşturun: (Program çalıştığında otomatik oluşturuyor)**
 
    ```bash
    mkdir yedekler
