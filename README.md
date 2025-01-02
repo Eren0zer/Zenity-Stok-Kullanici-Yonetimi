@@ -1,4 +1,4 @@
-# Proje Adı: **Zenity ile Geliştirilmiş Stok ve Kullanıcı Yönetim Sistemi**
+# **Zenity ile Geliştirilmiş Stok ve Kullanıcı Yönetim Sistemi**
 
 ## Proje Tanıtımı
 
