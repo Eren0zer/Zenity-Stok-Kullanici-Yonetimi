@@ -20,7 +20,7 @@ Bu proje, Zenity aracılığıyla geliştirilmiş bir stok ve kullanıcı yönet
 
    ```bash
    git clone https://github.com/Eren0zer/Zenity-Stok-Kullanici-Yonetimi
-   cd projeadi
+   cd Zenity-Stok-Kullanici-Yonetimi
    ```
 
 2. **Dosya İzinlerini Ayarlayın:**
