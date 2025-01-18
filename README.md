@@ -19,7 +19,7 @@ Bu proje, Zenity aracılığıyla geliştirilmiş bir stok ve kullanıcı yönet
 1. **Depoyu Klonlayın:**
 
    ```bash
-   git clone https://github.com/kullaniciadi/projeadi.git
+   git clone https://github.com/Eren0zer/Zenity-Stok-Kullanici-Yonetimi
    cd projeadi
    ```
 
